@@ -1,0 +1,34 @@
+```
+# Compiled and build artifacts
+*.class
+*.o
+*.obj
+*.out
+target/
+build/
+
+# Dependencies
+.m2/
+.gradle/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+test-results/
+```
